@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Test1/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/Test1/static/js/main.deccdd37.chunk.js",
+    "main.js.map": "/Test1/static/js/main.deccdd37.chunk.js.map",
+    "runtime-main.js": "/Test1/static/js/runtime-main.032fcef5.js",
+    "runtime-main.js.map": "/Test1/static/js/runtime-main.032fcef5.js.map",
+    "static/js/2.3b590a9e.chunk.js": "/Test1/static/js/2.3b590a9e.chunk.js",
+    "static/js/2.3b590a9e.chunk.js.map": "/Test1/static/js/2.3b590a9e.chunk.js.map",
+    "index.html": "/Test1/index.html",
+    "precache-manifest.2c715468f2ce9506652118776c70e6a4.js": "/Test1/precache-manifest.2c715468f2ce9506652118776c70e6a4.js",
+    "service-worker.js": "/Test1/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/Test1/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.3b590a9e.chunk.js.LICENSE.txt": "/Test1/static/js/2.3b590a9e.chunk.js.LICENSE.txt",
+    "static/media/caravan.jpg": "/Test1/static/media/caravan.818eea62.jpg",
+    "static/media/faces.jpg": "/Test1/static/media/faces.959041cd.jpg",
+    "static/media/personalise.jpg": "/Test1/static/media/personalise.87072815.jpg",
+    "static/media/social.jpg": "/Test1/static/media/social.489f19dd.jpg",
+    "static/media/t&l.jpg": "/Test1/static/media/t&l.a6a7adc8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.032fcef5.js",
+    "static/js/2.3b590a9e.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.deccdd37.chunk.js"
+  ]
+}
